@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backups and temporary files
+api_tester_backup.py
+*.bak
+*.swp
+*.tmp
+
+# Environment and keys
+.env
+*.env
+keys/
+*.pem
+*.key
+*.csv
+active_*.txt
+all_authentic_*.txt
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Streamlit logs & cache
+.streamlit/
